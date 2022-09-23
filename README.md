@@ -1,5 +1,5 @@
 # docker-boston-heroku
-Build a simple machine learning application, dockerize it and deploy on HEROKU platform using Github actions
+Build a simple machine learning application for Boston house prediction using Flask, dockerize it and deploy on HEROKU platform using <u>Github actions</u>
 
 - Create the folder .github/workflows and create main.yaml --> this file contains all the info necessary to push the docker image in the form 
 of container to HEROKU platform for deployment.</br> This file is already available in open source and can be modified as per our requirement.
