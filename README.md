@@ -56,6 +56,11 @@ Click Secrets & then Actions on left side pane
 
 ![image](https://user-images.githubusercontent.com/56335301/191962412-b56d029b-0132-4c89-a056-5a2056fd3c7e.png)
 
+Also, check below that the application is deployed in a "Container" environment
+
+![image](https://user-images.githubusercontent.com/56335301/191962799-bef0c0f7-c122-41ae-a442-07c1d1af2658.png)
+
+
 ![image](https://user-images.githubusercontent.com/56335301/191962479-b64b3d3e-6b6d-455b-a612-a575a8fe6c3a.png)
 
 
