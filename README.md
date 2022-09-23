@@ -65,7 +65,7 @@ Also, check below that the application is deployed in a "Container" environment
 
 
 # Credits
-Thanks to Krish Naik ( No one needs his introduction :-) ) for the amazing support provided for creation of this repository.
+Thanks to Krish Naik ( No one needs his introduction :superhero_man: ) for the amazing support provided for creation of this repository.
 
 
 
