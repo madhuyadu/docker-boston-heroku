@@ -37,8 +37,30 @@ Click Secrets & then Actions on left side pane
 - Click the orange circle to observe the sequence of all steps happening as part of deployment workflow
 
 - Under "Actions" menu of the repository, the below info will be available
-- 
+ 
 ![image](https://user-images.githubusercontent.com/56335301/191961828-a7022dcb-3cb6-4f7e-870c-e7452e70f63c.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191961926-bb329bf9-77a1-491b-9136-021c88e89464.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191961964-1465b935-9240-4734-a57e-0fea2c36389b.png)
+
+- Check for "Successfully deployed" msg below
+
+![image](https://user-images.githubusercontent.com/56335301/191962081-c90a78d3-490f-4a23-b3c5-2e44f29808f4.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191962147-1b53a44e-66aa-4390-9807-b07656f35880.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191962189-b866dd39-f923-4a51-bd04-1b7dd71359de.png)
+
+- Deployed app in action on HEROKU !! :sunglasses:
+
+![image](https://user-images.githubusercontent.com/56335301/191962412-b56d029b-0132-4c89-a056-5a2056fd3c7e.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191962479-b64b3d3e-6b6d-455b-a612-a575a8fe6c3a.png)
+
+
+# Credits
+Thanks to Krish Naik ( No one needs his introduction :-) ) for the amazing support provided for creation of this repository.
 
 
 
